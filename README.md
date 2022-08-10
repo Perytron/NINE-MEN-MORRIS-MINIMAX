@@ -27,4 +27,4 @@ muehleController5(board, startingPlayer, phase, stonesBeginningPhase)
 
 ## Credits
 
-Made with <3 by Luca and Gianluca (BE3dARt)
+Made with <3 by Luca and Perytron (Gianluca)
